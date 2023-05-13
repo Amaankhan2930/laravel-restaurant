@@ -450,8 +450,8 @@ At our restaurant, we believe that dining should be an experience, and we strive
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/amaan-khan-49593b22a"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://instagram.com/amaankhn._?igshid=OTk0YzhjMDVlZA=="><i class="fa fa-instagram"></i></a></li>
                             </ul>
                     </div>
                 </div>
